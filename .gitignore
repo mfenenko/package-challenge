@@ -1,0 +1,12 @@
+#General
+*~
+.bak
+
+#Eclipse
+.classpath
+.project
+.settings
+
+#Common
+bin
+*.jar
